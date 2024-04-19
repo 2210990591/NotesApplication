@@ -1,2 +1,6 @@
-# NotesApplication
-App that can help you add notes and delete them as well.
+# Run the code
+
+```
+npm install
+npm start
+```
